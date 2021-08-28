@@ -1,6 +1,7 @@
 # SeraTree
 
 A very simple linktree clone made with TypeScript & reactJS.
+[Client](https://github.com/Serakoi/SeraTree-client/)
 
 ## Features
 
