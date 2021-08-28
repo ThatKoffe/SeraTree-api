@@ -9,5 +9,5 @@ A very simple linktree clone made with TypeScript & reactJS.
 - [x] View users by ID
 - [x] Creating new links
 - [ ] Editing existing links
-- [ ] Removing links
+- [x] Removing links
 - [ ] Login
